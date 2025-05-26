@@ -1,6 +1,8 @@
 body {
     font-family: Arial, sans-serif;
     text-align: center;
+    background-color: #0a0f1c;
+    color: white;
 }
 
 nav {
@@ -28,3 +30,4 @@ a {
     border: 2px solid #ccc;
     border-radius: 10px;
 }
+
